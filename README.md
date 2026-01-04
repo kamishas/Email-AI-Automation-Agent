@@ -309,6 +309,15 @@ Looking forward to it!"
 - Personalization beyond just {{firstName}}
 - Real-time delivery tracking
 
+### 👥 **Contact Management**
+- Organize unlimited contacts with sophisticated tagging
+- Search across all fields instantly
+- Import from CSV or add manually
+- Tag-based filtering and segmentation
+
+![Contact Management](file:///C:/Users/kamin/.gemini/antigravity/brain/69c4bea5-9e68-4c85-9349-de91d252aa21/uploaded_image_1767502368380.png)
+*Manage your entire contact database with tags, search, and bulk actions*
+
 ### 📥 **Inbox Monitoring**
 - 24/7 monitoring of incoming emails
 - Priority detection (VIP senders, urgent keywords)
